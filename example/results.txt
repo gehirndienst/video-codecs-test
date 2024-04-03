@@ -1,0 +1,28 @@
+Codec: h264
+Encoding time: 6.80280065536499
+Output size: 10635735
+
+Codec: h265
+Encoding time: 39.50781750679016
+Output size: 11285645
+
+Codec: vp8
+Encoding time: 16.266424894332886
+Output size: 11118382
+
+Codec: vp9
+Encoding time: 360.53283286094666
+Output size: 12012035
+
+Codec: av1
+Encoding time: 201.9009346961975
+Output size: 120044678
+
+Codec: h264ha
+Encoding time: 2.7229909896850586
+Output size: 11241261
+
+Codec: h265ha
+Encoding time: 3.805178642272949
+Output size: 11568867
+
