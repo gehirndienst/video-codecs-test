@@ -29,7 +29,7 @@ As an output the project saves the intermediate logs and the final results. The 
 6) GStreamer >= 1.22
 7) FFmpeg >= 5.0 built with --enable-libvmaf
 
-For steps 3-6 you can refer to the Dockerfile from [my other repository](https://github.com/gehirndienst/gstwebrtcapp/blob/main/docker/Dockerfile)
+For steps 3-6 you can refer to the Dockerfile from [my other repository](https://github.com/gehirndienst/gstwebrtcapp/blob/main/docker/Dockerfile-cuda)
 
 For step 7 refer [to this guide](https://ottverse.com/vmaf-ffmpeg-ubuntu-compilation-installation-usage-guide/)
 
